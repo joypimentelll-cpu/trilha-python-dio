@@ -1,4 +1,3 @@
-```python
 from abc import ABC, abstractmethod
 from datetime import datetime
 
@@ -341,4 +340,3 @@ while True:
 
     else:
         print("Operação inválida.")
-```
